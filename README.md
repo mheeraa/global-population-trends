@@ -1,7 +1,17 @@
 # Population Forecasting and Analysis
 
-## Description
-As part of university experiential learning program, this project was executed by following a provided manual. The work focused on data preprocessing and analysis using Python, and creating interactive dashboards and stories with Tableau to visualize key insights into population growth trends.
+## Project Flow
+The project was completed by following a step-by-step manual, with key phases including:
+- Data collection and cleaning from a city population dataset
+- Applying statistical methods for population forecasting
+- Developing interactive dashboards and stories in Tableau
+- Documenting the analysis and findings
+
+## Technologies Used
+- **Programming Language:** Python
+- **Data Analysis & Visualization:** Tableau
+- **Data Libraries:** Pandas
+- **Tools:** Jupyter Notebook, Git, GitHub
 
 ## Project Links
 
