@@ -1,7 +1,7 @@
 # Population Forecasting and Analysis
 
 ## Description
-As part of a university experiential learning program, this project was executed by following a provided manual. The work focused on data preprocessing and analysis using Python, and creating interactive dashboards and stories with Tableau to visualize key insights into population growth trends.
+As part of university experiential learning program, this project was executed by following a provided manual. The work focused on data preprocessing and analysis using Python, and creating interactive dashboards and stories with Tableau to visualize key insights into population growth trends.
 
 ## Project Links
 
