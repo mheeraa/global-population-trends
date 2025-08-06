@@ -7,6 +7,12 @@ The project was completed by following a step-by-step manual, with key phases in
 - Developing interactive dashboards and stories in Tableau
 - Documenting the analysis and findings
 
+## Technologies Used
+Python: The core programming language for data analysis and manipulation.
+Jupyter Notebook: The development environment used to create the analysis and visualizations.
+HTML: Used to present the final analysis and findings in a web-friendly format.
+CSV: The data is stored in a world-population-data.csv file.
+
 ## Project Links
 
 ### Tableau Dashboard
