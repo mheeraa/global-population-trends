@@ -14,7 +14,7 @@ The complete project followed a structured methodology to deliver the final outp
 
 ## Technologies & Tools Used
 
-* **Database:** (e.g., MySQL, PostgreSQL, etc.) - For storing and performing SQL operations on the data.
+* **Database:** For storing and performing SQL operations on the data.
 * **Tableau:** The primary tool used for creating all visualizations, dashboards, and stories.
 * **Flask:** The web framework used to build the UI and embed the Tableau content.
 * **HTML:** For the final web page integration.
