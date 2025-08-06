@@ -7,12 +7,6 @@ The project was completed by following a step-by-step manual, with key phases in
 - Developing interactive dashboards and stories in Tableau
 - Documenting the analysis and findings
 
-## Technologies Used
-- **Programming Language:** Python
-- **Data Analysis & Visualization:** Tableau
-- **Data Libraries:** Pandas
-- **Tools:** Jupyter Notebook, Git, GitHub
-
 ## Project Links
 
 ### Tableau Dashboard
