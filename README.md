@@ -1,28 +1,27 @@
-# Population Forecasting and Analysis
+# Global Population Trends - Project Output
 
-## Project Flow
+This repository contains the final deliverables of a comprehensive data visualization project. The files here represent the polished output and embedded dashboard from a multi-stage project workflow.
 
-The project was completed by following a step-by-step manual, with key phases including:
-- Data collection and cleaning from a city population dataset
-- Applying statistical methods for population forecasting
-- Developing interactive dashboards and stories in Tableau
-- Documenting the analysis and findings
+## Key Deliverables
 
-## Technologies Used
+* `global-population-trends.html`: The final web page containing the embedded Tableau dashboard and story, integrated with a Flask UI. This file is the primary output of the project's web integration phase.
+* `world-population-data.csv`: The final, processed dataset used for the visualizations.
 
-* **Python:** The core programming language used for data analysis and manipulation.
-* **Jupyter Notebook:** The development environment used to create the analysis and visualizations.
-* **HTML:** Used to present the final analysis and findings in a web-friendly format.
-* **CSV:** The data for the project is stored in a `world-population-data.csv` file.
+## Project Workflow
 
-## Project Links
+The complete project followed a structured methodology to deliver the final output:
 
-### Tableau Dashboard
-* [https://public.tableau.com/views/Book1_16814449957210/Dashboard1](https://public.tableau.com/views/Book1_16814449957210/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+* **Problem Understanding:** Defined the business problem, requirements, and social/business impact of analyzing population trends.
+* **Data Collection & Database Operations:** Collected the dataset, stored it in a database, performed SQL operations, and connected it to Tableau.
+* **Data Visualization:** Created multiple unique visualizations, a responsive dashboard, and a multi-scene story in Tableau.
+* **Web Integration:** Embedded the final Tableau dashboard and story into a web UI using Flask.
+* **Documentation:** Created project documentation and a video demonstrating the end-to-end solution.
 
-### Tableau Story
-* [https://public.tableau.com/views/Book2_16814451734790/Story1](https://public.tableau.com/views/Book2_16814451734790/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+## 🛠️ Technologies & Tools Used
 
-### Video Demonstration
-* Part 1: [https://drive.google.com/file/d/14KmtsEAe5pNKmYvf-LEq5xzlk21HC3bI/view](https://drive.google.com/file/d/14KmtsEAe5pNKmYvf-LEq5xzlk21HC3bI/view?usp=share_link)
-* Part 2: [https://drive.google.com/file/d/1T6EEPOp3wK97f524-tnJ6e2o96Gadf_L/view](https://drive.google.com/file/d/1T6EEPOp3wK97f524-tnJ6e2o96Gadf_L/view?usp=share_link)
+* **Database:** (e.g., MySQL, PostgreSQL, etc.) - For storing and performing SQL operations on the data.
+* **Tableau:** The primary tool used for creating all visualizations, dashboards, and stories.
+* **Flask:** The web framework used to build the UI and embed the Tableau content.
+* **HTML:** For the final web page integration.
+* **SQL:** For data extraction and preparation.
+* **CSV:** For the final dataset.
